@@ -1,2 +1,3 @@
-# memento-mori-wallpapers
+# Memento mori wallpapers
+
 A collection of wallpapers on the "Memento mori" theme.

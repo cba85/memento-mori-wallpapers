@@ -2,7 +2,9 @@
 
 A collection of wallpapers on the Memento Mori theme.
 
-![Memento Mori](original.jpg)
+<div style="text-align: center">
+  <img src="original.jpg" alt="Memento Mori"> 
+</div>
 
 | Device |
 |--------|

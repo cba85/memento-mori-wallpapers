@@ -2,6 +2,8 @@
 
 A collection of wallpapers on the Memento Mori theme.
 
+![Memento Mori](original.jpg)
+
 | Device |
 |--------|
 | [iPhone 7](https://raw.githubusercontent.com/cba85/memento-mori-wallpapers/master/memento-mori-iphone7-wallpaper.jpg) |
